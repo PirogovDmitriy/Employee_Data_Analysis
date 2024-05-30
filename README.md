@@ -56,8 +56,6 @@
 
 ![Важность признаков](https://imgur.com/WZdHkcL.png)
 
-- Прогнозная точность модели.
-
 ## Стек
 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
