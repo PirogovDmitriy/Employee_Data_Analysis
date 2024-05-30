@@ -58,5 +58,12 @@
 
 - Прогнозная точность модели.
 
-Подробные визуализации можно найти в конце ноутбука.
+## Стек
 
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![Pandas](https://img.shields.io/badge/-Pandas-333?style=flat&logo=pandas)
+![Numpy](https://img.shields.io/badge/-Numpy-333?style=flat&logo=numpy)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-333?style=flat&logo=scikit-learn)
+![Scipy](https://img.shields.io/badge/-Scipy-333?style=flat&logo=Scipy)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-333?style=flat&logo=matplotlib)
+![Seaborn](https://img.shields.io/badge/-Seaborn-333?style=flat&logo=Seaborn)
